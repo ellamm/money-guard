@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ellamm/money-guard/static/css/main.7acaea2f.css",
+    "main.js": "/ellamm/money-guard/static/js/main.07d3183d.js",
+    "index.html": "/ellamm/money-guard/index.html",
+    "main.7acaea2f.css.map": "/ellamm/money-guard/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/ellamm/money-guard/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
