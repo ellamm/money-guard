@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Money Guard",
+  "name": "Money Guard app to help you with your finances tracking",
   "icons": [
     {
       "src": "favicon.ico",
